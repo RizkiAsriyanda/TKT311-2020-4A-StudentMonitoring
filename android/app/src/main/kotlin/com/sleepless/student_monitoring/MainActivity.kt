@@ -1,4 +1,4 @@
-package com.example.student_monitoring
+package com.sleepless.student_monitoring
 
 import io.flutter.embedding.android.FlutterActivity
 
